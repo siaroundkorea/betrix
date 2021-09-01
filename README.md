@@ -1,4 +1,4 @@
-# Betrix Hompage
+# Betrix Homepage
 
 This project is COPYRIGHTⓒ2021 by AROUNDKorea Corp. ALL RIGHTS RESERVED
  
